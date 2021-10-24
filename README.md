@@ -11,3 +11,5 @@ https://lernatino.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️ by Sophia Nguyen
+
+### ©2019 Run Buddy, Inc
